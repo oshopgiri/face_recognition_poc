@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+face-recognition = "==1.2.3"
+opencv-python = "==3.4.4.19"
+
+[requires]
+python_version = "3.6"
