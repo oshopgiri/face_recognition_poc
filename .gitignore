@@ -1,4 +1,5 @@
 .venv/
+people/*
 
 # PyCharm stuff
 .idea/
